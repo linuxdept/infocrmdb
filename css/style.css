@@ -1,0 +1,30 @@
+body{
+   background-image: linear-gradient(to right, #ffffff , #f7f4f8);
+}
+
+.card{
+    margin-top:100px;background-color:white;
+}
+.nav{
+    margin-bottom:-13px
+}
+
+h5{
+    margin-top:-50px;
+    margin-bottom:30px;
+    color: #535253;
+}
+
+a{
+    color: #5c575e;
+}
+
+.btn{
+    background-color:#696170;
+    color: white;
+}
+
+.btn:hover{
+    background-color:#6574ca;
+    color: white;
+}
