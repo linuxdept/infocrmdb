@@ -58,7 +58,7 @@
       <small>Backup-Schedules</small>
     </h1>
 
-      <p>Most of Start Bootstrap's unstyled templates can be directly integrated into the Modern Business template. You can view all of our unstyled templates on our website at
+      <p>Complete IT CRM
       <p>Backup Datagrid will go here.</p>
   </div>
   <!-- /.container -->
